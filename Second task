@@ -1,0 +1,47 @@
+
+It seems that there's no data in the sample for people from India earning more than 50K, which caused an error when trying to find the most popular occupation. This issue wouldn't occur if there were such entries in the actual dataset.
+
+Here are the results based on the available sample data:
+
+1. People of each race:
+
+White    3
+Black    2
+Name: race, dtype: int64
+
+
+2. Average age of men:
+45.0 years
+
+
+3. Percentage of people with a Bachelor's degree:
+60.0%
+
+
+4. Percentage of people with advanced education (Bachelors, Masters, or Doctorate) earning more than 50K:
+0.0% (in the sample data)
+
+
+5. Percentage of people without advanced education earning more than 50K:
+0.0% (in the sample data)
+
+
+6. Minimum number of hours worked per week:
+13 hours
+
+
+7. Percentage of people working the minimum hours per week and earning more than 50K:
+0.0% (in the sample data)
+
+
+8. Country with the highest percentage of people earning >50K:
+No country in the sample data has people earning more than 50K.
+
+
+9. Most popular occupation for people earning >50K in India:
+No data available for people earning more than 50K from India in the sample.
+
+
+
+These results are based on the small sample. The actual results would differ with the full dataset. Would you like help running this on a complete dataset?
+
